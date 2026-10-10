@@ -1,6 +1,5 @@
 # 💫 About Me:
 
-<div> style="background-color:black; color:white; padding:20px; border-radius:10px;"</div>
 
 I am Parth Ajay Bhugul, a passionate Software Engineer with a strong foundation in Data Structures, Algorithms, and full‑stack development. My hands-on experience spans Java, JavaScript, React.js, Node.js, and REST APIs, where I’ve built impactful projects such as a Smart Campus Complaint System and a Recruitment Platform that improved efficiency by 25–30%.<br><br>Recognized with the Rising Star Award at eClerx, I bring proven problem-solving skills, technical adaptability, and a commitment to delivering scalable solutions. With over 250+ DSA problems solved and a 4‑star HackerRank rating, I continuously sharpen my coding expertise while exploring backend development and cloud integration.<br><br>Driven by curiosity and a results-oriented mindset, I aim to contribute to innovative software solutions that enhance user experience and business efficiency.
 
